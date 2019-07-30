@@ -6,13 +6,13 @@
   },
   {
     "remote":      "github",
-    "repository":  "Ancient-Project/kernel_xiaomi_platina",
+    "repository":  "RaphielGang/acrux_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/platina",
     "branch":      "pie"
   },
   {
     "remote":      "github",
-    "repository":  "mafurcak/vendor_MiuiCamera",
+    "repository":  "MeeraDevArt/vendor_MiuiCamera",
     "target_path": "vendor/MiuiCamera",
     "branch":      "pie-platina"
   }

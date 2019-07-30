@@ -27,9 +27,9 @@ $(call inherit-product, vendor/MiuiCamera/config.mk)
 
 # Inherit some common SuperiorOS stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
-$(call inherit-product, vendor/superior/config/common.mk)
+$(call inherit-product, vendor/stag/main.mk)
 
-PRODUCT_NAME := superior_platina
+PRODUCT_NAME := stag_platina
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := platina
 PRODUCT_MANUFACTURER := Xiaomi
