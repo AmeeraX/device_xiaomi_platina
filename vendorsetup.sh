@@ -1,3 +1,3 @@
-add_lunch_combo ion_platina-userdebug
-add_lunch_combo ion_platina-eng
-add_lunch_combo ion_platina-user
+add_lunch_combo cos_platina-userdebug
+add_lunch_combo cos_platina-eng
+add_lunch_combo cos_platina-user
